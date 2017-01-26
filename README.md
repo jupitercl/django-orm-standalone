@@ -49,7 +49,3 @@ print user.name
 print user.grupo_set[0].name
 ~~~
 
-### Develop
-
-@francisco
-
